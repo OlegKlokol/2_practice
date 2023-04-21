@@ -1,7 +1,7 @@
 <?php
 $apiKey = "AIzaSyDzwySvKRx5a9SVZGHO91ag7k7o-JQaWqE";
 $cx = "53ad2738ccbb1402b";
-$search = "Translator" ;
+$search = "BeatStars" ;
 if (isset($_GET['search'])){
     $search = $_GET['search'];
 }
